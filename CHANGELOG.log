@@ -1,0 +1,14 @@
+Meli Code Generator V 1.0.0
+---------------------------
+1. Application created!
+
+
+Meli Code Generator V 1.0.1
+---------------------------
+1. run scritp for generating Meli Codes for one city or many city(s).
+
+
+Meli Code Generator V 1.0.2
+---------------------------
+1. Delete connection with bash script and saving in the file with 'fwrite' function.
+This makes the script working very faster!
