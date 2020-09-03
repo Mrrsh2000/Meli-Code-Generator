@@ -1,0 +1,2 @@
+php >= V 5.*.* ( from Terminal or Windows Command Prompt ( CMD ))
+git >= V *
