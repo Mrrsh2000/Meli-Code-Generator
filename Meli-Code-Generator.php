@@ -112,10 +112,10 @@ function Check_MeliCode($code)
 
 function Fix($Number)
 {
-	if (strlen($Number) != 7)
-	{
+	if (strlen($Number) < 7)
 		return str_repeat("0",7 - strlen($Number)) . $Number;
-	}
+	else
+		return $Number;
 }
 
 function Banner()
