@@ -4,6 +4,7 @@
 
 # Terms & Service
 هر گونه سو استفاده از ابزار بر عهده کاربر میباشد و ما هیچ مسيولیتی در این باره قبول نمیکنیم.
+Any mis use of the tool is the responsibility of the user and we do not accept any responsibility in this regard.
 
 # Meli-Code-Generator
 This is a script for generate and find Meli Codes ( only Iran country ).
