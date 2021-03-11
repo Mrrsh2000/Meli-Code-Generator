@@ -36,9 +36,7 @@ Linux script run commands:
 - 1 . cd  <Directory loaction for run>
 - 2 . git clone https://github.com/witblack/Meli-Code-Generator.git
 - 3 . chmod +x 'Meli Code Generator.php'
-- 4 . chmod +x 'Linux installation bases.sh'
-- 5 . ./Linux\ installation\ bases.sh
-- 6 . ./Meli\ Code\ Generator.php
+- 4 . ./Meli\ Code\ Generator.php
 
 
 
